@@ -3,7 +3,7 @@ A bash script using ffmpeg to generate video posters
 
 *Mac OS X bash script - Requires ffmpeg to be installed*
 
-##What does it do?
+## What does it do?
 Place the script in your main video folder.
 
 cd into the folder and run `. generate_posters.sh`
@@ -16,5 +16,5 @@ The script will then create a matching directory structure in the destination fo
 
 The file name will be in the format "poster_{index}.jpg"
 
-##More info on FFMPEG
+## More info on FFMPEG
 Check [binpress.com](https://www.binpress.com/tutorial/how-to-generate-video-previews-with-ffmpeg/138), they have a very detailed article about it.
